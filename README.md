@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pryas Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prayas Gupta</h1>
+<h3 align="center">A passionate Backened Developer from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pryas32&label=Profile%20views&color=0e75b6&style=flat" alt="pryas32" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pryas32" alt="pryas32" /></a> </p>
 
 - 🔭 I’m currently learning **DSA/SpringBoot**
 
