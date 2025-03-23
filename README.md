@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Prayas Gupta</h1>
-<h3 align="center">A passionate Backened Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pryas Gupta</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pryas32&label=Profile%20views&color=0e75b6&style=flat" alt="pryas32" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pryas32" alt="pryas32" /></a> </p>
+
+- 🔭 I’m currently learning **DSA/SpringBoot**
+
+- 📫 How to reach me **pryasgupta32@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YvAR1M3ZW7r8MKWqMkCZQC0LqXfaEWxT/view?usp=drive_link](https://drive.google.com/file/d/1YvAR1M3ZW7r8MKWqMkCZQC0LqXfaEWxT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prayas-gupta-9b1a1830b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayas-gupta-9b1a1830b" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pryas121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pryas121" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/guptapryas835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guptapryas835" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/guptapryas835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="guptapryas835" height="30" width="40" /></a>
 </p>
