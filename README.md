@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayas Gupta</h1>
-<h3 align="center">A passionate Backened developer from India</h3>
+<h3 align="center">A passionate Backened Developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg" >
 
