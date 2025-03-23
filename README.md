@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prayas Gupta</h1>
 <h3 align="center">A passionate Backened Developer from India</h3>
-
+<img src="https://www.bing.com/images/search?q=animated+coding+profile&id=83049F1DBC00349F555CCD3861971439572C3252&FORM=IQFRBA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pryas32&label=Profile%20views&color=0e75b6&style=flat" alt="pryas32" /> </p>
 
 
