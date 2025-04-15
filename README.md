@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pryasgupta32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ckLkxfh8_P9th6IaXbDe1UC5usUXXqt0/view?usp=sharing](https://drive.google.com/file/d/1ckLkxfh8_P9th6IaXbDe1UC5usUXXqt0/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
